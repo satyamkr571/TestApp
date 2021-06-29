@@ -1,0 +1,15 @@
+.todo {
+  position: relative;
+}
+.col {
+  height: auto;
+  width: 100%;
+  border: 0px solid white;
+  margin: 0px 0px 30px 10px;
+}
+.row {
+  position: relative;
+  height: auto;
+  width: 80%;
+  display: flex;
+}
